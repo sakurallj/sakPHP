@@ -1,2 +1,2 @@
 # sakPHP
-事件驱动， 非阻塞I/O的php小型框架，基于symfony组件,还在开发当中
+基于symfony组件的框架,还在开发当中
