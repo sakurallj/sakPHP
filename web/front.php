@@ -29,7 +29,7 @@ $map = array(
     '/hello'=> __DIR__.'/../src/hello.php',
     '/bye'=> __DIR__.'/../src/bye.php'
 );
-var_dump($map);
+
 $path = $request->getPathInfo();
 if(isset($map[$path])){
     ob_start();
